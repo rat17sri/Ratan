@@ -1,0 +1,67 @@
+.inner-section {
+    padding-bottom: 40px;
+    width: 100%;
+    display: table;
+}
+
+margin-less{
+    font-size: 14px;
+    color: #5c5c5c;
+    line-height: 22px;
+}
+
+complaints{
+    width: auto;
+    display: table;
+    margin: 0px;
+    float: left;
+    padding-right: 40px
+}
+
+secure-facilities{
+    width: 50%;
+    float: left;
+    text-align: justify;
+    padding-bottom: 0px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h5 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: lightcyan;
+}
+
+p {
+    /* text-align: center; */
+    font-family: Garamond;
+    font-size: 18px;
+    border-left: 10px aquamarine solid;
+    padding-left: 10px;
+    /* arial,helvetica; */
+}
+
+hr { 
+    width: 180px;
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 2px;
+    border-color: cornflowerblue;
+} 
+.squareList{
+    list-style: square;
+}
+.para1 {
+    font-family: Garamond;
+    font-size: 18px;
+    border-left: 10px aquamarine solid;
+    padding-left: 10px;
+}

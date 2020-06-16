@@ -1,0 +1,36 @@
+.squareList{
+    list-style: square;
+}
+
+h2 {
+    text-align: center;
+}
+
+hr { 
+    width: 400px;
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 300px;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 2px;
+    border-color: cornflowerblue;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    width: auto;
+    display: table;
+    margin: 0px;
+    float: left;
+    padding-right: 40px;
+    margin-left: 35px;
+    background-color: #f5fffc;
+    border-left: 10px aquamarine solid;
+}
+
+li {
+    margin-left: 20px;
+}
