@@ -1640,16 +1640,16 @@ h3 {
 }
 
 /* line 84, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_offers.scss */
-.video_bg {
+/* .video_bg {
   background-image: url(./assets/images/video/video.png);
-}
+} */
 
 /* line 87, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_offers.scss */
-.video_area {
+/* .video_area {
   padding: 250px 0;
   background-size: cover;
   background-position: center center;
-}
+} */
 
 @media (max-width: 767px) {
   /* line 87, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_offers.scss */
@@ -2462,9 +2462,9 @@ h3 {
 }
 
 /* line 1, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_bradcam.scss */
-.breadcam_bg {
+/* .breadcam_bg {
   background-image: url(./assets/images/banner/bradcam.png);
-}
+} */
 
 /* line 4, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_bradcam.scss */
 .breadcam_bg_1 {
@@ -2472,9 +2472,9 @@ h3 {
 }
 
 /* line 7, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_bradcam.scss */
-.breadcam_bg_2 {
+/* .breadcam_bg_2 {
   background-image: url(/assets/images/banner/bradcam3.png);
-}
+} */
 
 /* line 10, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_bradcam.scss */
 .bradcam_area {
@@ -2766,7 +2766,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_department.scss */
 .depertment_area {
-  background-image: url(./assets/images/banner/department.jpg);
+  /* background-image: url(./assets/images/banner/department.jpg); */
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3095,14 +3095,14 @@ h3 {
 }
 
 /* line 58, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_tesmonial.scss */
-.testmonial_bg_1 {
+/* .testmonial_bg_1 {
   background-image: url(./assets/images/testmonial/1.png);
-}
+} */
 
-/* line 61, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_tesmonial.scss */
-.testmonial_bg_2 {
+/* line 61, ../../Arafath/CL/january 2020/241[. Medical/HTML/scss/_tesmonial.scss */
+/* .testmonial_bg_2 {
   background-image: url(./assets/images/testmonial/2.png);
-}
+} */
 
 /* line 1, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_service.scss */
 .service_area {
@@ -3309,11 +3309,11 @@ single_expert2{
 }
 
 /* line 17, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_emergency_contact.scss */
-.Emergency_contact::after {
+/* .Emergency_contact::after {
   right: 0;
   top: 0;
   background-image: url(./assets/images/banner/emergency_2.jpg);
-}
+} */
 
 /* line 22, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_emergency_contact.scss */
 .Emergency_contact .Emergency_contact_inner {
@@ -3520,13 +3520,13 @@ single_expert2{
 }
 
 /* line 1, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_book_apontment.scss */
-.book_apointment_area {
+/* .book_apointment_area {
   background-image: url(./assets/images/banner/form_bg.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   padding: 150px 0;
-}
+} */
 
 @media (max-width: 767px) {
   /* line 1, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_book_apontment.scss */
@@ -4635,10 +4635,10 @@ h6 {
 }
 
 /* line 798, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_elements.scss */
-.primary-checkbox input:checked + label {
+/* .primary-checkbox input:checked + label {
   background: url(./assets/images/elements/primary-check.png) no-repeat center center/cover;
-  border: none;
-}
+  border: none; */
+/* } */
 
 /* line 806, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_elements.scss */
 .confirm-checkbox {
@@ -4677,10 +4677,10 @@ h6 {
 }
 
 /* line 835, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_elements.scss */
-.confirm-checkbox input:checked + label {
+/* .confirm-checkbox input:checked + label {
   background: url(./assets/images/elements/success-check.png) no-repeat center center/cover;
   border: none;
-}
+} */
 
 /* line 843, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_elements.scss */
 .disabled-checkbox {
@@ -4725,10 +4725,10 @@ h6 {
 }
 
 /* line 876, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_elements.scss */
-.disabled-checkbox input:checked + label {
+/* .disabled-checkbox input:checked + label {
   background: url(./assets/images/elements/disabled-check.png) no-repeat center center/cover;
   border: none;
-}
+} */
 
 /* line 884, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_elements.scss */
 .primary-radio {
@@ -4767,10 +4767,10 @@ h6 {
 }
 
 /* line 913, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_elements.scss */
-.primary-radio input:checked + label {
+/* .primary-radio input:checked + label {
   background: url(./assets/images/elements/primary-radio.png) no-repeat center center/cover;
   border: none;
-}
+} */
 
 /* line 921, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_elements.scss */
 .confirm-radio {
@@ -4809,10 +4809,10 @@ h6 {
 }
 
 /* line 950, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_elements.scss */
-.confirm-radio input:checked + label {
+/* .confirm-radio input:checked + label {
   background: url(./assets/images/elements/success-radio.png) no-repeat center center/cover;
   border: none;
-}
+} */
 
 /* line 958, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_elements.scss */
 .disabled-radio {
@@ -4857,10 +4857,10 @@ h6 {
 }
 
 /* line 991, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_elements.scss */
-.disabled-radio input:checked + label {
+/* .disabled-radio input:checked + label {
   background: url(assets/images/elements/disabled-radio.png) no-repeat center center/cover;
   border: none;
-}
+} */
 
 /* line 999, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_elements.scss */
 .default-select {
