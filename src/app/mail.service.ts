@@ -11,6 +11,6 @@ export class MailService {
   constructor(private http:HttpClient) { }
 
   sendMail(mail:Mail){
-   return this.http.post('https://ratan-mail.herokuapp.com/api/contact-us/email',mail);
+   return this.http.post('http://localhost/api/contact-us/email',mail);
   }
 }
